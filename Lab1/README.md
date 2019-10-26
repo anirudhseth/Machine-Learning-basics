@@ -1,3 +1,3 @@
 # LAB 1 Decision Trees
-<img src="Results/1.png"></img> 
+<img src="src/1.png"></img> 
 
