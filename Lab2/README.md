@@ -1,5 +1,4 @@
-# DD2421_MachineLearning
-DD2421_MachineLearning
+# LAB 2
 <img src="Results/1.png"></img> 
 <img src="Results/2.png"></img> 
 <img src="Results/4.png"></img> 
